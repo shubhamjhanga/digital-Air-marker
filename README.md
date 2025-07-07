@@ -14,7 +14,8 @@ The Digital Air Marker is a smart prototype that recognizes digits (0–9) drawn
 
  No touchscreen or keyboard needed
 
- ![Image](./IMAGE.png)
+ ![FRONT](./IMAGE.png)
+ ![BACK](./IMAGE%20BACK.png)
  
 
 
